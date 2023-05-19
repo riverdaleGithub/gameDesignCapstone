@@ -8,8 +8,6 @@ Craft a game that narrates your life's unique journey! This project is a grand o
 
 ## 📝 Project Requirements ✅
 
-Ensure your game includes the following elements:
-
 <details>
 <summary>🔍 Click here for the Detailed Chart 📋</summary>
 
@@ -64,7 +62,7 @@ Ensure your game includes the following elements:
 Submit the following by 06/04/2023, 9 PM:
 
 1. Upload a .zip copy of your Unity Game Project folder
-2. Upload you material links to [the last game design schoology assignment](#)
+2. Upload your material links to [the last game design Schoology assignment](#)
 3. Complete the [final reflection](#)
 
 ## 🌠 Expand Your Skills! 📘
@@ -85,4 +83,3 @@ Engage in these fun and educational topics for your summer project! The more you
 ---
 
 Remember, we're here to assist you in your game design journey. Reach out anytime you need help. Enjoy your game design process and good luck! 🚀🎮💡
-
