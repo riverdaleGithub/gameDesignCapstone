@@ -11,20 +11,20 @@ Craft a game that narrates your life's unique journey! This project is a grand o
 <details>
 <summary>🔍 Click here for the Detailed Chart 📋</summary>
 
-| Requirement      | Description |
-| ---------------- | ----------- |
-| 📖 Personal Story | Your game should depict your unique personal journey. |
-| 🏆 Win Condition & Challenges | Craft a winning condition for players and incorporate challenges. |
-| 🎆 Immersive Game Environment | Use a mix of sounds, lighting, and assets to build a rich gaming environment. |
-| 👁️ First-Person Controller | Players should navigate the game in a first-person view. |
-| 💥 Collision Detection | Actions or events should be triggered when the player interacts with in-game objects. |
-| 🌌 Player Boundaries | Design the game such that the player cannot leave the game environment. |
-| 🛸 Raycasting and Prefabs | Utilize these to improve gameplay mechanics. |
-| 🖥️ Interactive GUI Elements | Use GUI for better player interaction. |
-| 💾 Data Persistence | Use PlayerPrefs or equivalent to retain game data between different scenes. |
-| 🌃 Multiple Scenes | The game should include at least two different scenes. |
-</details>
+Requirement      | Description 
+---------------- | ----------- 
+📖 Personal Story | Your game should depict your unique personal journey. 
+🏆 Win Condition & Challenges | Craft a winning condition for players and incorporate challenges. 
+🎆 Immersive Game Environment | Use a mix of sounds, lighting, and assets to build a rich gaming environment. 
+👁️ First-Person Controller | Players should navigate the game in a first-person view. 
+💥 Collision Detection | Actions or events should be triggered when the player interacts with in-game objects. 
+🌌 Player Boundaries | Design the game such that the player cannot leave the game environment. 
+🛸 Raycasting and Prefabs | Utilize these to improve gameplay mechanics. 
+🖥️ Interactive GUI Elements | Use GUI for better player interaction. 
+💾 Data Persistence | Use PlayerPrefs or equivalent to retain game data between different scenes. 
+🌃 Multiple Scenes | The game should include at least two different scenes. 
 
+</details>
 
 ## Before Coding 📚
 
