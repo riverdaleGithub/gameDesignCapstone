@@ -1,4 +1,4 @@
-# ✨"A Day in My Life" - An Interactive Bio 🔬
+# ✨📜 "A Day in the Life" - An Interactive Bio 📜✨
 
 **Due Date:** 📅 06/04/2023, ⏰ 9PM
 
@@ -70,7 +70,7 @@ Your game should include the following elements:
 
 <br>
 
-# Rubrics 🎯📜
+# 🎯 Rubrics 📜
 
 <details>
 <summary> Expand To Understand</summary>
@@ -126,8 +126,6 @@ Your game should include the following elements:
 
 </details>
 
-#### Note
-
 * **Exemplary**: Exceeds expectations and demonstrates superior understanding or execution.
 * **Proficient**: Meets expectations and demonstrates adequate understanding or execution.
 * **Developing**: Partially meets expectations and demonstrates partial understanding or execution.
@@ -135,7 +133,7 @@ Your game should include the following elements:
 
 <br>
 
-# Research
+# 📡 Research 📡 
 
 This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? 
 
@@ -185,7 +183,7 @@ This list includes scientists and their contributions represented in a series of
 
 <br>
 
-# 🎉🔮  Giving Your Presentation 🎓🚀
+# 🔮 Giving Your Presentation 🎓
 
 <details>
 <summary>🔍Presentation Requirements</summary>
@@ -204,7 +202,7 @@ This list includes scientists and their contributions represented in a series of
 
 <br>
 
-# 📥 Project Submission
+# 📥 Project Submission 🕰️
 
 Submit the following by 06/04/2023, 9 PM:
 
