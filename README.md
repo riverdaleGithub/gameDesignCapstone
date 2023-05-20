@@ -8,12 +8,12 @@ Through your storytelling prowess, you'll captivate players and guide them on an
 
 Remember, storytelling is a powerful tool that can create a deep connection between players and the game world. As you design and develop your game, consider how you can leverage the interactive nature of gaming to immerse players in the quest and allow them to experience the challenges and triumphs firsthand.
 
-# 📝 Project Requirements ✅
+# 🌙Project Requirements🌙
 
 Your game should include the following elements:
 
 <details>
-<summary>🔍 Click here for the Detailed Chart 📋</summary>
+<summary>🔍 Expand Chart 📋</summary>
 
   <table>
     <thead>
@@ -70,10 +70,10 @@ Your game should include the following elements:
 
 <br>
 
-# 🎯 Rubrics 📜
+# 🐈‍⬛ Rubrics 🐈‍⬛
 
 <details>
-<summary> Expand To Understand</summary>
+<summary> 🕯️Expand To Understand🕯️</summary>
 
 <table>
   <thead>
@@ -183,7 +183,7 @@ This list includes scientists and their contributions represented in a series of
 
 <br>
 
-# 🔮 Giving Your Presentation 🎓
+# 🎤 Giving Your Presentation 🎥
 
 <details>
 <summary>🔍Presentation Requirements</summary>
