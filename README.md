@@ -1,85 +1,207 @@
-# 🪄🔮 Final Project: "The Story of Me" - An Interactive Autobiography 🚀🛸
+# ✨"A Day in My Life" - An Interactive Bio 🔬
 
 **Due Date:** 📅 06/04/2023, ⏰ 9PM
 
-Craft a game that narrates your life's unique journey! This project is a grand opportunity to demonstrate your talents in programming, game mechanics, and creativity.
+In this project, you'll create an immersive and interactive experience where players will embark on a quest through pivotal moments in your life or the life of a renowned scientist. Each challenge, obstacle, or milestone encountered along the way will contribute to the overall narrative arc of the game.
 
-👉 Check the [Rubrics here](#) for grading criteria 🎯📜
+Through your storytelling prowess, you'll captivate players and guide them on an emotional journey filled with personal growth, scientific discoveries, or both. Use your creative skills to craft compelling characters, engaging dialogue, and impactful choices that shape the outcome of the quest.
 
-## 📝 Project Requirements ✅
+Remember, storytelling is a powerful tool that can create a deep connection between players and the game world. As you design and develop your game, consider how you can leverage the interactive nature of gaming to immerse players in the quest and allow them to experience the challenges and triumphs firsthand.
+
+# 📝 Project Requirements ✅
+
+Your game should include the following elements:
 
 <details>
 <summary>🔍 Click here for the Detailed Chart 📋</summary>
 
-Requirement      | Description 
----------------- | ----------- 
-📖 Personal Story | Your game should depict your unique personal journey. 
-🏆 Win Condition & Challenges | Craft a winning condition for players and incorporate challenges. 
-🎆 Immersive Game Environment | Use a mix of sounds, lighting, and assets to build a rich gaming environment. 
-👁️ First-Person Controller | Players should navigate the game in a first-person view. 
-💥 Collision Detection | Actions or events should be triggered when the player interacts with in-game objects. 
-🌌 Player Boundaries | Design the game such that the player cannot leave the game environment. 
-🛸 Raycasting and Prefabs | Utilize these to improve gameplay mechanics. 
-🖥️ Interactive GUI Elements | Use GUI for better player interaction. 
-💾 Data Persistence | Use PlayerPrefs or equivalent to retain game data between different scenes. 
-🌃 Multiple Scenes | The game should include at least two different scenes. 
+  <table>
+    <thead>
+      <tr>
+        <th>Requirement</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>📖 Personal Story</td>
+        <td>The game should depict a day in your life or that of a renowned scientist.</td>
+      </tr>
+      <tr>
+        <td>🏆 Win Condition & Challenges</td>
+        <td>Design a winning condition and incorporate challenges related to daily tasks or scientific feats.</td>
+      </tr>
+      <tr>
+        <td>🎆 Immersive Game Environment</td>
+        <td>Use sounds, lighting, and assets to build a captivating gaming environment.</td>
+      </tr>
+      <tr>
+        <td>👁️ First-Person Controller</td>
+        <td>The game should be navigable from a first-person view.</td>
+      </tr>
+      <tr>
+        <td>💥 Collision Detection</td>
+        <td>Actions or events should be triggered when the player interacts with in-game objects.</td>
+      </tr>
+      <tr>
+        <td>🌌 Player Boundaries</td>
+        <td>Ensure the player can't leave the game environment.</td>
+      </tr>
+      <tr>
+        <td>🛸 Raycasting and Prefabs</td>
+        <td>Use these to enhance gameplay mechanics.</td>
+      </tr>
+      <tr>
+        <td>🖥️ Interactive GUI Elements</td>
+        <td>Implement GUI for better player interaction.</td>
+      </tr>
+      <tr>
+        <td>💾 Data Persistence</td>
+        <td>Use PlayerPrefs or equivalent to retain game data between different scenes.</td>
+      </tr>
+      <tr>
+        <td>🌃 Multiple Scenes</td>
+        <td>Include at least two different scenes in the game.</td>
+      </tr>
+    </tbody>
+  </table>
 
 </details>
 
-## Before Coding 📚
-
-📨 **Submit and Discuss**: [Submit your proposal](#) for review and have a discussion to clarify any uncertainties.
-🔄 **Revise and Finalize**: Incorporate the feedback, revise, and get the final approval before starting to code.
+# Rubrics 🎯📜
 
 <details>
-<summary>🔍 Click here for the Proposal Check List</summary>
+<summary> Expand To Understand</summary>
 
-1. 🎩 **Understand the Problem**: What are the project requirements.
-2. 📝 **Project Proposal**: Write a proposal containing:
-   - 👤 **Student Information**: Your name and relevant details.
-   - 📛 **Project Title**: Clearly define your project title.
-   - 📚 **Story Line**: Discuss how storytelling elements will be used in your game.
-   - 🎮 **Game Description**: Provide a brief description of your game and its objectives.
-   - 📅 **Timeline**: Draft a feasible timeline for project phases.
+<table>
+  <thead>
+    <tr>
+      <th>Criteria</th>
+      <th>Exemplary</th>
+      <th>Proficient</th>
+      <th>Developing</th>
+      <th>Not Yet Proficient</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📖 **Personal Story / Research**</td>
+      <td>The personal story or scientist's life is deeply explored, with clear links to the game.</td>
+      <td>The personal story or scientist's life is explored, with links to the game.</td>
+      <td>The personal story or scientist's life is mentioned, but links to the game are unclear.</td>
+      <td>The personal story or scientist's life is not effectively incorporated into the game.</td>
+    </tr>
+    <tr>
+      <td>🎮 **Game Mechanics**</td>
+      <td>The game mechanics are innovative, engaging, and well implemented.</td>
+      <td>The game mechanics are solid and serve to enhance the game experience.</td>
+      <td>The game mechanics are functional but do not enhance the game experience.</td>
+      <td>The game mechanics are confusing or non-functional.</td>
+    </tr>
+    <tr>
+      <td>👁️ **First-Person Controller**</td>
+      <td>The first-person controller enhances the gameplay, offering an immersive experience.</td>
+      <td>The first-person controller functions well and does not detract from gameplay.</td>
+      <td>The first-person controller functions, but could use improvement.</td>
+      <td>The first-person controller is dysfunctional or not implemented.</td>
+    </tr>
+    <tr>
+      <td>🛠️ **Use of Unity**</td>
+      <td>Unity is used to its full potential to create an engaging and visually appealing game.</td>
+      <td>Unity is used effectively to create a functional and appealing game.</td>
+      <td>Unity is used, but the game could benefit from more advanced features or polish.</td>
+      <td>Unity is not used effectively, impacting the quality of the game.</td>
+    </tr>
+    <tr>
+      <td>🗣️ **Presentation**</td>
+      <td> Is engaging, clear, and demonstrates a deep understanding of the game development process.</td>
+      <td> Is solid and shows understanding of the game development process.</td>
+      <td> Shows some understanding of the game development process, but could be more clear or engaging.</td>
+      <td> Unclear or fails to demonstrate understanding of the game development process.</td>
+    </tr>
+  </tbody>
+</table>
+
 </details>
 
-## 🎉🔮  Giving Your Presentation 🎓🚀
+#### Note
+
+* **Exemplary**: Exceeds expectations and demonstrates superior understanding or execution.
+* **Proficient**: Meets expectations and demonstrates adequate understanding or execution.
+* **Developing**: Partially meets expectations and demonstrates partial understanding or execution.
+* **Not Yet Proficient**: Does not meet expectations and demonstrates lack of understanding or execution.
+
+# Research
+
+This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? 
 
 <details>
-<summary>🔍 Click here for How To Present</summary>
+<summary>🫧Expand Your Bubble🫧</summary>
+  
+<table>
+  <thead>
+    <tr>
+      <th>Scientist</th>
+      <th>Contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Ada_Lovelace">Ada Lovelace</a></td>
+      <td>💻📜🎩👩‍🔬</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Rosalind_Franklin">Rosalind Franklin</a></td>
+      <td>🧬🔬📸🇬🇧</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Ben_Barres">Ben Barres</a></td>
+      <td>🧠🔬🎓🌈</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Jane_Goodall">Jane Goodall</a></td>
+      <td>🦍🌿🔬🇬🇧</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Mae_Jemison">Mae Jemison</a></td>
+      <td>👩‍🚀🌍🚀👩🏾‍🔬</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Chien-Shiung_Wu">Chien-Shiung Wu</a></td>
+      <td>⚛️🔭🧲👩🏽‍🔬</td>
+    </tr>
+    <tr>
+      <td><a href="https://en.wikipedia.org/wiki/Katherine_Johnson">Katherine Johnson</a></td>
+      <td>🚀🧮🌌👩🏾‍🏫</td>
+    </tr>
+  </tbody>
+</table>
 
-1. 👋 **Introduction**: Begin by introducing yourself and your game.
-2. 🎮 **Game Mechanics & Unity Features**: Discuss the key game mechanics and Unity features used in your project.
-3. 🕹️ **Gameplay Walkthrough**: Demonstrate the main gameplay elements and features.
-4. 💥 **Challenges & Solutions**: Share any hurdles faced during the development process and how you resolved them.
-5. 💬 **Engage Your Audience**: Encourage interaction and engagement from your audience during the presentation.
-6. 📚 **Summary & Key Takeaways**: Conclude with a summary of your project and the key takeaways.
-7. 🎤 **Preparation**: Anticipate potential questions and prepare clear and informative responses.
 </details>
 
-## 📥 Project Submission
+# 🎉🔮  Giving Your Presentation 🎓🚀
+
+<details>
+<summary>🔍Presentation Requirements</summary>
+
+<ol>
+<li>👋 <strong>Introduction</strong>: Begin by introducing yourself and your game.</li>
+<li>🎮 <strong>Game Mechanics & Unity Features</strong>: Discuss the key game mechanics and Unity features used in your project.</li>
+<li>🕹️ <strong>Gameplay Walkthrough</strong>: Demonstrate the main gameplay elements and features.</li>
+<li>💥 <strong>Challenges & Solutions</strong>: Share any hurdles faced during the development process and how you resolved them.</li>
+<li>💬 <strong>Engage Your Audience</strong>: Encourage interaction and engagement from your audience during the presentation.</li>
+<li>📚 <strong>Summary & Key Takeaways</strong>: Conclude with a summary of your project and the key takeaways.</li>
+<li>🎤 <strong>Preparation</strong>: Anticipate potential questions and prepare clear and informative responses.</li>
+</ol>
+
+</details>
+
+# 📥 Project Submission
 
 Submit the following by 06/04/2023, 9 PM:
 
-1. Upload a .zip copy of your Unity Game Project folder
-2. Upload your material links to [the last game design Schoology assignment](#)
-3. Complete the [final reflection](#)
-
-## 🌠 Expand Your Skills! 📘
-
-Engage in these fun and educational topics for your summer project! The more you delve into projects, the more your programming skills grow. 🌱
-
-<details>
-<summary>🔍 Click here for Ideas to Expand </summary>
-
-- [Unity Particle Systems](https://learn.unity.com/tutorial/unity-particle-systems) 💫: Master creating captivating visual effects using particle systems in Unity.
-- [Unity Audio](https://learn.unity.com/tutorial/unity-audio) 🎵: Understand how to incorporate sound effects, background music, and interactive audio into your game.
-- [2D Games in Unity](https://learn.unity.com/tutorial/2d-games-in-unity) 🪄🔮: Dive into creating 2D games and learn about sprite animations, collision detection, and level building.
-- [Unity Tilemaps](https://learn.unity.com/tutorial/unity-tilemaps) 🧙‍♀️🔲: Learn how to use Unity's Tilemap feature to design appealing 2D game levels.
-- [Unity Animations](https://learn.unity.com/tutorial/unity-animations) 🚀🛸: Get a grasp of animating characters, objects, and UI elements in Unity.
-- [VR Development with Oculus and Unity](https://learn.unity.com/tutorial/vr-development-with-oculus-and-unity) 🥽🌐: Step into the world of VR game development with Unity and Oculus.
-</details>
-
----
-
-Remember, we're here to assist you in your game design journey. Reach out anytime you need help. Enjoy your game design process and good luck! 🚀🎮💡
+<ol>
+<li>Upload a .zip copy of your Unity Game Project folder</li>
+<li>Upload your material links to <a href="#">the last game design schoology assignment</a></li>
+<li>Complete the <a href="#">final reflection</a></li>
+</ol>
