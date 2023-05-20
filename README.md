@@ -13,7 +13,7 @@ Remember, storytelling is a powerful tool that can create a deep connection betw
 Your game should include the following elements:
 
 <details>
-<summary>🔍 Click here for the Detailed Chart 📋</summary>
+<summary>🔍 Expand 📋</summary>
 
   <table>
     <thead>
@@ -133,7 +133,7 @@ Your game should include the following elements:
 
 # Research
 
-This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? 
+This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? You may also find your own person to research.
 
 <details>
 <summary>🫧Expand Your Bubble🫧</summary>
