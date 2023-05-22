@@ -88,10 +88,10 @@ Your game should include the following elements:
   <tbody>
     <tr>
       <td>📖 **Personal Story / Research**</td>
-      <td>The personal story or scientist's life is deeply explored, with clear links to the game.</td>
-      <td>The personal story or scientist's life is explored, with links to the game.</td>
-      <td>The personal story or scientist's life is mentioned, but links to the game are unclear.</td>
-      <td>The personal story or scientist's life is not effectively incorporated into the game.</td>
+      <td>The personal story or notable important individual life is deeply explored, with clear links to the game.</td>
+      <td>The personal story or notable important individual is explored, with links to the game.</td>
+      <td>The personal story or notable important individual is mentioned, but links to the game are unclear.</td>
+      <td>The personal story or notable important individual is not effectively incorporated into the game.</td>
     </tr>
     <tr>
       <td>🎮 **Game Mechanics**</td>
@@ -135,7 +135,9 @@ Your game should include the following elements:
 
 # 📡 Research 📡 
 
-This list includes scientists and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? 
+If your game is not about you:
+
+This list includes notable important individual and their contributions represented in a series of emojis - consider them like modern hieroglyphics! Can you decipher the meanings? Feel free to find your own notable important individual.
 
 <details>
 <summary>🫧Expand Your Bubble🫧</summary>
@@ -143,7 +145,7 @@ This list includes scientists and their contributions represented in a series of
 <table>
   <thead>
     <tr>
-      <th>Scientist</th>
+      <th>Notable Individual</th>
       <th>Contributions</th>
     </tr>
   </thead>
